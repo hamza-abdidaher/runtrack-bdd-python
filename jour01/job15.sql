@@ -1,0 +1,1 @@
+mysql> SELECT * From etudiant ORDER BY nom ASC;
